@@ -13,3 +13,7 @@ function multiple() {
   return (a * b)
 }
 
+function divive() {
+  return (a / b)
+}
+
